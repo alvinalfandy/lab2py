@@ -46,4 +46,4 @@ keyboard.
 
 ### Maka Outputnya
 
-![Alt text](update2.png)
+![Alt text](update2.jpeg)
