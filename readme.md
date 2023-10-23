@@ -42,8 +42,8 @@ pada folder lab2py pada direktori kerja anda)
 * Menggunakan fungsi input untuk mengambil nilai variabel dari
 keyboard.
 
-![gambar 2](gambar4.jpeg)
+![gambar 2](update1.jpeg)
 
 ### Maka Outputnya
 
-![Alt text](image.png)
+![Alt text](update2.png)
